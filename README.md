@@ -15,14 +15,14 @@ Module 20- Report
 * Description of Model 1 Accuracy, Precision, and Recall scores.
 * Balanced Accuracy Score: 0.9442676901753825
 
-              precision    recall  f1-score   support
+              * precision    recall  f1-score   support
 
-     Healthy       1.00      1.00      1.00     18759
-   High Risk       0.87      0.89      0.88       625
+     * Healthy       1.00      1.00      1.00     18759
+   * High Risk       0.87      0.89      0.88       625
 
-    accuracy                           0.99     19384
-   macro avg       0.94      0.94      0.94     19384
-weighted avg       0.99      0.99      0.99     19384
+    * accuracy                           0.99     19384
+   * macro avg       0.94      0.94      0.94     19384
+* weighted avg       0.99      0.99      0.99     19384
 
 
 
@@ -33,14 +33,14 @@ weighted avg       0.99      0.99      0.99     19384
 * Testing Data Score: 0.9952022286421791
 * Balanced Accuracy Score: 0.9959744975744975
 
-              precision    recall  f1-score   support
+              * precision    recall  f1-score   support
 
-           0       1.00      1.00      1.00     18759
-           1       0.87      1.00      0.93       625
+           * 0       1.00      1.00      1.00     18759
+           * 1       0.87      1.00      0.93       625
 
-    accuracy                           1.00     19384
-   macro avg       0.94      1.00      0.96     19384
-weighted avg       1.00      1.00      1.00     19384
+    * accuracy                           1.00     19384
+   * macro avg       0.94      1.00      0.96     19384
+* weighted avg       1.00      1.00      1.00     19384
 
 
 
